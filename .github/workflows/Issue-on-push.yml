@@ -1,3 +1,4 @@
+name: Create Isssue from template
 # .github/workflows/issue-on-push.yml
 on: [push]
 name: Create an issue on push
